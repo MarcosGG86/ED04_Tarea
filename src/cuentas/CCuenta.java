@@ -3,7 +3,6 @@
  * and open the template in the editor.
  */
 
-//Primer commit 
 
 package cuentas;
 
